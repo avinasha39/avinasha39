@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash Agarwal
 - 👀 I’m interested in backend Development
-- 🌱 I’m currently learning .Net core and python(Django)
+- 🌱 I’m currently learning .Net(.Fwk and .Core) and Java(Spring)
 - 💞️ I’m looking to collaborate on any backend development projects
 - 📫 How to reach me ...
 
